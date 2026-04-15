@@ -1,15 +1,17 @@
 ## Customer Segmentation & Sales Analytics — SQL Portfolio Project <br/>
 
-### Project Overview <br/>
-As a Data Analyst, my goal in this project was to dive into a multi-year dataset of vehicle sales and uncover key business insights that could support strategic decisions. This analysis replicates a real-world scenario in which an organization needs to better understand sales performance, customer behavior, and product trends in order to boost profitability and optimize resource allocation. <br/> <br/> 
+### Executive Summary <br/>
+This project analyzes a multi-year vehicle sales dataset to identify key revenue drivers, customer segments, and purchasing behaviour patterns.
+The goal is to extract actionable business insights that can support data-driven decision making in sales strategy, customer retention, and product performance. The analysis reveals that revenue is heavily concentrated among a small group of high-value customers, with Classic Cars dominating across
+all customer segments and deal sizes. Medium-frequency buyers represent the most commercially valuable segment overall, and clear seasonal trends are observed across the dataset. <br/> <br/> 
 
-### Project Objectives <br/>
-This project was designed to answer core business questions using advanced SQL techniques. Key objectives included:
-  * Analyze multi-year vehicle sales data to identify performance trends
-  * Perform advanced customer segmentation based on frequency and behavior
-  * Use CTEs and window functions to track purchase patterns and growth over time
-  * Explore sales performance by deal size and product preferences
-  * Uncover data-driven insights to support business decision-making <br/> <br/>
+### Business Objectives <br/>
+This analysis was designed to answer key business questions, including:
+  * Who are the highest-value customers and what drives their spending?
+  * How can customers be segmented based on purchasing behaviour?
+  * Which product lines generate the most revenue?
+  * How do deal sizes influence sales performance?
+  * What trends exist in customer behaviour over time? <br/> <br/>
 
 ### Tools & Techniques Used <br/>
   * SQL
